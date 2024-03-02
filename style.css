@@ -1,0 +1,32 @@
+body{
+    background-color: bisque;
+}
+.container{
+    border: 5px solid white;
+    border-radius: 50px;
+    justify-content: center;
+    font-family: cursive;
+    font-size: 50px;
+    align-items: center;
+    margin: auto;
+    height:500px;
+    width: 500px;
+   
+}
+h1{
+    color: white;
+    size: 75px;
+}
+button{
+    border-radius: 50px;
+    font-size: 30px;
+    padding: 5px;
+    border: 2px solid white;
+}
+form{
+    text-align: center;
+    justify-content: absolute;
+    font-family: cursive;
+    align-items: center;
+    margin: autoS;
+}
